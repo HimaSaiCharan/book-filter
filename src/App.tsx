@@ -49,7 +49,6 @@ const App = () => {
           <option value="year">Year</option>
         </select>
         <Table
-          className="table"
           title="Books Collection"
           headings={["Title", "Author", "Year"]}
           data={filteredBooks}
