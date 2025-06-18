@@ -1,0 +1,25 @@
+.search-panel {
+  background-color: #f8f9fa;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px #0000001a;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+.search-bar {
+  outline: none;
+  padding: 8px;
+  border: 1px solid #0000001a;
+  border-radius: 4px;
+}
+
+.search-drop-down {
+  outline: none;
+  padding: 8px;
+  border: 1px solid #0000001a;
+  border-radius: 4px;
+}
+
+h3 {
+  margin: 0 0 20px 0;
+}
